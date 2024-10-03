@@ -1,4 +1,4 @@
-# This program will calculate the amoutn of calories that a person needs to
+# This program will calculate the amount of calories that the user needs to
 # maintain, lose or gain weight.
 
 
@@ -26,7 +26,7 @@ def getName():
         rightName = input(f"Is {name} correct (Y or N)? ") # Confirm name is correct
     return name
 
-""" getAge functio will request age from user and
+""" getAge function request age from user and
 confirm if input is correct. """
         
 def getAge():
